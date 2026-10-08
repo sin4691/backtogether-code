@@ -8,7 +8,7 @@
 |---|---|---|---|
 | 온라인 협동 플랫포머 | 2026.06.19 – 09.15 | Mirror · EOS P2P (서버 권위) | Unity 6 · URP 2D |
 
-📂 자세한 설명: [포트폴리오 – Back Together](https://sin4691.github.io/#back-together)
+🎮 [Steam 스토어 페이지](https://store.steampowered.com/app/5086830/BACK_TOGETHER/) · 📂 [포트폴리오 – Back Together](https://sin4691.github.io/#back-together)
 
 > 상용 출시작이라 원본 프로젝트 저장소는 비공개입니다. 이 저장소에는 **제가 작성한 코드만** 원본 그대로 옮겨 두었습니다. 그래서 단독으로 실행되지는 않습니다.
 
